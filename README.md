@@ -1,1 +1,1 @@
-[Сайт] (https://egorkazyukanov.github.io/internettechnologies/)
+[Сайт](https://egorkazyukanov.github.io/internettechnologies/)
